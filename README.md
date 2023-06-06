@@ -11,7 +11,6 @@ EnemyTank.java   敌方坦克类<br />
 MyJrame.java   主窗口，运行其中的main方法即可运行程序<br />
 MyPanel.java   绘制游戏区域<br />
 MyTank.java   我方坦克类<br />
-Node.java   记录退出游戏时剩余敌方坦克的坐标方向<br />
 Recorder.java   记录退出游戏时的得分以及其他信息，并写入到myRecord.txt文件<br />
 Shot.java   射击类<br />
 Tank.java   坦克类，是MyTank.java和EnemyTank.java的父类<br />
