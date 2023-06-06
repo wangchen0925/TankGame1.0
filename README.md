@@ -1,5 +1,3 @@
-# TankGame1.0
-用Java语言编写的坦克大战程序
 
 # 坦克大战1.0(TankGame)
 
